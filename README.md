@@ -1,2 +1,3 @@
 # ch3tan-demo
-this is first
+this is first repository
+author:ch3tan
